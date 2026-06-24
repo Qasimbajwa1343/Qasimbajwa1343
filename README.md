@@ -78,6 +78,12 @@ Collection of data analysis notebooks and experiments using Python.
 * Web Development
 * AI Applications
   
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qasimbajwa1343&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimbajwa1343&layout=compact)
+  
 
 
 ## Connect With Me
