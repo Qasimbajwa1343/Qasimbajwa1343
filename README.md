@@ -85,9 +85,10 @@ Collection of data analysis notebooks and experiments using Python.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimbajwa1343&layout=compact)
   
 
-
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/qasim-bajwa
+📧 qasimbajwa1343@gmail.com
 
-GitHub: github.com/Qasimbajwa1343
+💼 LinkedIn: linkedin.com/in/qasim-bajwa
+
+🐙 GitHub: github.com/Qasimbajwa1343
