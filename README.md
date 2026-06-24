@@ -1,3 +1,5 @@
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/3b897123-0704-45f6-9746-279b65016a71" />
+
 # Hi, I'm Muhammad Qasim 👋
 
 ### Software Engineering Student | Frontend Developer | AI & ML Enthusiast
