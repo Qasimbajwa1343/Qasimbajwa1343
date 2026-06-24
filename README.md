@@ -58,29 +58,16 @@ My interests include:
 * SQL Server
 * Oracle
 
-
 ## Featured Projects
 
-### FocusFlow
+### 📱 FocusFlow
+Android productivity tracker with screen-time analytics and focus timers.
 
-Android productivity tracker that helps students reduce doom scrolling and improve study habits.
+### 🚕 Taxi Fare Prediction
+Machine learning model that predicts taxi fares using regression techniques.
 
-### Smart Job Portal
-
-Recruitment management system connecting employers and job seekers.
-
-### BG.SWAP
-
-AI-powered background replacement application.
-
-### Pharmacy Management System
-
-Inventory and pharmacy operations management system built with C#.
-
-### Taxi Fare Prediction
-
-Machine learning application for predicting taxi fares using regression models.
-
+### 📊 Data Analytics Practice
+Collection of data analysis notebooks and experiments using Python.
 
 
 ## Currently Learning
